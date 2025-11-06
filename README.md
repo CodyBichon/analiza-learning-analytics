@@ -12,7 +12,7 @@ Obiectivul principal este dublu: **(1)** a valida potențialul predictiv al cara
 ## 📂 structura repository-ului
 
 * **`Learning_Analytics.ipynb`**: Notebook-ul Colab care conține codul sursă complet pentru:
-    * Analiza Exploratorie a Datelor (**EDA**).
+    * Analiza Exploratorie a Datelor.
     * Clasificarea Supervizată (**Logistic Regression, Random Forest, Decision Tree**).
     * Clustering-ul Nesupervizat (**K-Means, Bisecting K-Means**).
 * **`raport-analiza-finala.pdf`** (sau `.docx`): Documentul care sintetizează metodologia, rezultatele și implicațiile operaționale.
