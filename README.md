@@ -15,7 +15,7 @@ Obiectivul principal este dublu: **(1)** a valida potențialul predictiv al cara
     * Analiza Exploratorie a Datelor (**EDA**).
     * Clasificarea Supervizată (**Logistic Regression, Random Forest, Decision Tree**).
     * Clustering-ul Nesupervizat (**K-Means, Bisecting K-Means**).
-* **`raport-analiza-finala.pdf`** (sau `.docx`): Documentul academic final de 5 pagini care sintetizează metodologia, rezultatele și implicațiile operaționale.
+* **`raport-analiza-finala.pdf`** (sau `.docx`): Documentul care sintetizează metodologia, rezultatele și implicațiile operaționale.
 
 ---
 
